@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Social Media Content</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/imadhubhashitha/Social-Media-Content/tree/main)
 
 
 
