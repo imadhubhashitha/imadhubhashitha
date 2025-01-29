@@ -1,9 +1,9 @@
-<h1>Hi, I'm Imesh! <br/><a href="https://github.com/imadhubhashitha">Freelancer</a>, <a href="https://www.linkedin.com/in/imadhubhashitha/">Content Creator</a>, </h1>
+<h1>Hi, I'm Imesh! <br/><a href="https://github.com/imadhubhashitha">Freelancer</a>, <a href="https://www.linkedin.com/in/imadhubhashitha/">Content Creator</a> </h1>
 
 <h2>👨‍💻Projects:</h2>
 
 - <b>Social Media Content</b>
-  - [Praciting DS & Algos in Python](https://github.com/imadhubhashitha/Social-Media-Content/tree/main)
+  - [Canva](https://github.com/imadhubhashitha/Social-Media-Content/tree/main)
 
 
 
