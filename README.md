@@ -6,8 +6,10 @@
   - [Canva](https://github.com/imadhubhashitha/Social-Media-Content/tree/main)
   
 - <b>Project Designs</b>
-  - [Canva](  https://github.com/imadhubhashitha/Project-Designs
-)
+  - [Canva](  https://github.com/imadhubhashitha/Project-Designs)
+
+- <b>Resume Designs</b>
+  - [Basic](https://github.com/imadhubhashitha/Resume-Designs)
 
 
 <h2>📺Certification</h2>
