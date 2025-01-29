@@ -9,7 +9,7 @@
   - [Canva](  https://github.com/imadhubhashitha/Project-Designs)
 
 - <b>Resume Designs</b>
-  - [Basic](https://github.com/imadhubhashitha/Resume-Designs)
+  - [Basic](https://github.com/imadhubhashitha/Resume-Design)
 
 
 <h2>📺Certification</h2>
