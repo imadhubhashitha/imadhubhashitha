@@ -4,7 +4,10 @@
 
 - <b>Social Media Content</b>
   - [Canva](https://github.com/imadhubhashitha/Social-Media-Content/tree/main)
-
+  
+- <b>Project Designs</b>
+  - [Canva](  https://github.com/imadhubhashitha/Project-Designs
+)
 
 
 <h2>📺Certification</h2>
