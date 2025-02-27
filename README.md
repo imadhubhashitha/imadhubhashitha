@@ -2,17 +2,14 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Social Media Content</b>
-  - [Canva](https://github.com/imadhubhashitha/Social-Media-Content/tree/main)
-  
-- <b>Project Designs</b>
-  - [Canva](  https://github.com/imadhubhashitha/Project-Designs)
-
-- <b>Resume Designs</b>
-  - [Basic](https://github.com/imadhubhashitha/Resume-Design)
+- <b>Graphics</b>
+  - [Social Media Content](https://github.com/imadhubhashitha/Social-Media-Content/tree/main)
+  - [Project Designs](  https://github.com/imadhubhashitha/Project-Designs)
+  - [Resume Designs](https://github.com/imadhubhashitha/Resume-Design)
+  - [Fiverr Gig](https://github.com/imadhubhashitha/fiverr)
  
-- <b>Fiverr Gig</b>
-  - [Images](https://github.com/imadhubhashitha/fiverr)
+- - <b>Network Implementation</b>
+  - [Small Office Home Office Network -SOHO](https://github.com/imadhubhashitha/SOHO-Network)
 
 
 <h2>📺Certification</h2>
