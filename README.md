@@ -3,12 +3,11 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Graphics</b>
-  - [Social Media Content](https://github.com/imadhubhashitha/Social-Media-Content/tree/main)
   - [Project Designs](  https://github.com/imadhubhashitha/Project-Designs)
   - [Resume Designs](https://github.com/imadhubhashitha/Resume-Design)
   - [Fiverr Gig](https://github.com/imadhubhashitha/fiverr)
  
-- - <b>Network Implementation</b>
+- <b>Network Implementation</b>
   - [Small Office Home Office Network -SOHO](https://github.com/imadhubhashitha/SOHO-Network)
 
 
