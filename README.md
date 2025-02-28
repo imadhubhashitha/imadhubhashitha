@@ -9,6 +9,9 @@
  
 - <b>Network Implementation</b>
   - [Small Office Home Office Network -SOHO](https://github.com/imadhubhashitha/SOHO-Network)
+  - [Modern Hotel Network Implementation](https://github.com/imadhubhashitha/Hotel-Network)
+
+
 
 
 <h2>📺Certification</h2>
