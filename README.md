@@ -10,6 +10,7 @@
 - <b>Network Implementation</b>
   - [Small Office Home Office Network -SOHO](https://github.com/imadhubhashitha/SOHO-Network)
   - [Modern Hotel Network Implementation](https://github.com/imadhubhashitha/Hotel-Network)
+  - [Bank System Network Design](https://github.com/imadhubhashitha/BankNetwork)
 
 
 
