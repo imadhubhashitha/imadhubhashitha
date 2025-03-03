@@ -12,9 +12,9 @@
   - [Modern Hotel Network Implementation](https://github.com/imadhubhashitha/Hotel-Network)
   - [Bank System Network Design](https://github.com/imadhubhashitha/BankNetwork)
 
-- <b>Tutorials</b>
-  - [Securing Your SSH Service: Best Practices
-](https://github.com/imadhubhashitha/Secure-SSH)
+<h2>⚡Tutorials:</h2>
+
+  - [Securing Your SSH Service: Best Practices](https://github.com/imadhubhashitha/Secure-SSH)
  
 
 
