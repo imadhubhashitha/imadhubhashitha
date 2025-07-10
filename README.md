@@ -19,13 +19,15 @@
 <h2>⚡Tutorials:</h2>
 
   - [Securing Your SSH Service: Best Practices](https://github.com/imadhubhashitha/Secure-SSH)
- 
+  - [Securing Your SSH Service: Best Practices](https://github.com/imadhubhashitha/Secure-SSH)
+
 
 
 
 <h2>📺Certification</h2>
 
 - [Networking Basic By CISCO](https://www.credly.com/badges/ac10fc6e-af9c-44c0-be88-6c43f0ce690e)
+- [IT Essential By CISCO](https://www.credly.com/badges/4bb90d8b-0fec-44b1-8727-cd727c0ae5e7)
 
 
 <h2> 🤳 Connect with me:</h2>
