@@ -12,9 +12,10 @@
   - [Modern Hotel Network Implementation](https://github.com/imadhubhashitha/Hotel-Network)
   - [Bank System Network Design](https://github.com/imadhubhashitha/BankNetwork)
 
-- <b>Vibe Coding</b>
+- <b>Coding</b>
   - [My Portfoilio Website Using VibeCoding](https://github.com/imadhubhashitha/VIbeCode-Portfolio)
- 
+  - [Simple Note App](https://github.com/imadhubhashitha/minimal-notes-app)
+
     
 <h2>⚡Tutorials:</h2>
 
